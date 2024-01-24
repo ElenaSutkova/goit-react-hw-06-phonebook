@@ -1,4 +1,4 @@
-import { UseDispatch, useDispatch, useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import styles from './Filter.module.css';
 import { setFilter } from "store/filter";
 import { getFilter } from "store/selectors";
