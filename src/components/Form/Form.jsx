@@ -42,7 +42,7 @@ const Form = () => {
             <ul className={styles.list}>
                 
                 <li className={styles.item}>
-                    <label className={styles.label}></label>
+                    <label className={styles.label}>Name</label>
                     <input
                         type="text"
                         name="name"
